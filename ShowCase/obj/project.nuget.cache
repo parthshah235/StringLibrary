@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Olja8iUUShqivxStvlSFhF1oUVErtUY3zehZ4nY6ujveXTxgqY2lB/B3uAEMjc3JUJDNlHmfsUi0wyokbt9UlQ==",
+  "success": true,
+  "projectFilePath": "D:\\CentennialCollege\\Semester 4\\Courses\\DevOps\\Lab#4\\ShowCase\\ShowCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parth\\.nuget\\packages\\stringlibrary\\1.0.5\\stringlibrary.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
